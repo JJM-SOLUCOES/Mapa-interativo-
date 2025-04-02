@@ -14,6 +14,3 @@ body {
     border: 1px solid #000;
     display: inline-block;
 }
-body {
-    background-color: lightgray;
-}
